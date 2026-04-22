@@ -1,29 +1,23 @@
 <h1 align="center">MFA-meex</h1>
 
-<p align="center">
-KQL Detection Engineering • Microsoft Sentinel • Entra ID • AI Security
-</p>
 
 <p align="center">
+Sentinel Detections • Cloud Security • Identity Security • AI Security
 
-  <a href="https://www.linkedin.com/in/keem/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" />
-  </a>
-  <a href="https://kc7cyber.com/profile/MFA-meex">
-    <img src="https://img.shields.io/badge/KC7-Profile-darkred" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,powershell,bash,github" />
 </p>
 
 ---
 
 ## About Me
-Focused on detection engineering using KQL across Microsoft security platforms. I build detections based on adversary techniques, with an emphasis on identity attacks, cloud abuse, and emerging AI-related threats.
+I develop detection rules using KQL across Microsoft Sentinel, Defender, and Entra ID. My work focuses on identifying identity-based attacks, cloud attacks, and AI attack techniques mapped to intrusion patterns.
 
 ---
 
 ## Popular Detections
-- ClickFix
-- New Application Consent Grant
+- ClickFix Social Engineering Technique
+- OAuth Application Consent Abuse
 - Entra ID Password Spray
 - AI Prompt Injection via URL Fargments (HashJack)
 
@@ -33,7 +27,7 @@ Focused on detection engineering using KQL across Microsoft security platforms. 
 Detection Engineering  
 https://github.com/MFA-meex/detection-engineering
 
-KQL-based detections designed for Microsoft Sentinel using Defender and Entra ID telemetry. Focused on practical, real-world attack patterns and detection logic.
+KQL-based detection rules across Microsoft Sentinel, Defender, and Entra ID. This work focuses on identifying identity-based attacks, cloud attacks, and AI attack techniques mapped to common intrusion patterns.
 
 ---
 
