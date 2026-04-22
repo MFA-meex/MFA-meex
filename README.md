@@ -5,8 +5,7 @@
 Sentinel Detections • Cloud Security • Identity Security • AI Security
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,powershell,bash,github" />
-</p>
+  <img src="https://skillicons.dev/icons?i=azure,powershell,bash,github,git" />
 
 ---
 
