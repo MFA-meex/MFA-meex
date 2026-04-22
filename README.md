@@ -11,7 +11,7 @@ Sentinel Detections • Cloud Security • Identity Security • AI Security
 ---
 
 ## About Me
-I develop detection rules using KQL across Microsoft Sentinel, Defender, and Entra ID. My work focuses on identifying identity-based attacks, cloud attacks, and AI attack techniques mapped to intrusion patterns.
+Security Analyst with 3+ years of experience securing enterprise environments using the Microsoft Security Stack. Focused on investigating endpoint and identity activity, strengthening access controls, and reducing organizational risk.
 
 ---
 
@@ -32,4 +32,6 @@ KQL-based detection rules across Microsoft Sentinel, Defender, and Entra ID. Thi
 ---
 
 ## Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MFA-meex&show_icons=true&theme=dark)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MFA-meex&theme=dark)
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
