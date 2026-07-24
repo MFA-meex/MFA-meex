@@ -14,14 +14,6 @@ Security Analyst with 3+ years of experience securing enterprise environments ac
 
 ---
 
-## Popular Detections
-- ClickFix Social Engineering Technique
-- OAuth Application Consent Abuse
-- Entra ID Password Spray
-- AI Prompt Injection via URL Fargments (HashJack)
-
----
-
 ## Featured Repositories
 Detection Engineering  
 https://github.com/MFA-meex/detection-engineering
