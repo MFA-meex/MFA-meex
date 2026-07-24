@@ -10,7 +10,7 @@ KQL Detections • Cloud Security • Identity Security • AI Security
 ---
 
 ## About Me
-Security Analyst with 3+ years of experience securing enterprise environments across the Microsoft Security Stack. Focused on investigating endpoint and identity activity, strengthening access controls, reducing organizational risk, and hardening Azure cloud infrastructure using Zero Trust principles across identity, network, and data layers.
+Information Security Analyst with 3+ years of experience securing enterprise environments across cloud and hybrid infrastructures. Experienced with Microsoft Security technologies including Defender XDR, Microsoft Sentinel, Entra ID, Azure security controls, and KQL for incident investigation, threat hunting, detection development, and response. Focused on cloud security, identity protection, and Zero Trust principles, with experience implementing security controls, improving cloud configurations, and strengthening enterprise defenses.
 
 ---
 
