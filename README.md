@@ -10,7 +10,7 @@ KQL Detections • Cloud Security • Identity Security • AI Security
 ---
 
 ## About Me
-Security Analyst with 3+ years of experience securing enterprise environments using the Microsoft Security Stack. Focused on investigating endpoint and identity activity, strengthening access controls, and reducing organizational risk.
+Security Analyst with 3+ years of experience securing enterprise environments using the Microsoft Security Stack. Focused on investigating endpoint and identity activity, strengthening access controls, and reducing organizational risk. Also builds and hardens cloud infrastructure hands-on, applying Zero Trust principles across identity, network, and data layers in Azure.
 
 ---
 
@@ -22,11 +22,16 @@ Security Analyst with 3+ years of experience securing enterprise environments us
 
 ---
 
-## Featured Repository
+## Featured Repositories
 Detection Engineering  
 https://github.com/MFA-meex/detection-engineering
 
 KQL-based detection rules across Microsoft Sentinel, Defender, and Entra ID. This work focuses on identifying identity-based attacks, cloud attacks, and AI attack techniques mapped to common intrusion patterns.
+
+Zero Trust Azure Landing Zone  
+https://github.com/MFA-meex/azure-zero-trust-landing-zone
+
+A Zero Trust Azure environment built hands-on: private endpoints, RBAC-only access, Bastion-only compute, Azure Policy enforcement, and customer-managed key encryption.
 
 ---
 
