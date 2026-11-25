@@ -10,20 +10,27 @@ KQL Detections • Cloud Security • Identity Security • AI Security
 ---
 
 ## About Me
-Information Security Analyst with 3+ years of experience securing cloud and hybrid environments. Experienced with Defender XDR, Microsoft Sentinel, Entra ID, Azure, and KQL for investigating attacks, correlating security telemetry, identifying indicators of compromise, and supporting containment and remediation. Focused on understanding attacker behavior and improving detection and response capabilities across endpoint, identity, email, and cloud environments.
+Information Security Analyst with 3+ years of experience securing Microsoft environments, specializing in cloud security
+and security operations. Skilled in Azure, Entra ID, Defender XDR, Microsoft Sentinel, and KQL, with experience in threat
+detection, identity security, incident response, and cloud security management.
 
 ---
 
 ## Featured Repositories
-Detection Engineering  
-https://github.com/MFA-meex/detection-engineering
+Azure Cloud Incident Response    
+https://github.com/MFA-meex/azure-service-principal-compromise
 
-KQL-based detection rules across Microsoft Sentinel, Defender, and Entra ID. This work focuses on identifying identity-based attacks, cloud attacks, and AI attack techniques mapped to common intrusion patterns.
+Azure cloud incident response case study involving service principal compromise, privilege escalation, and production data exposure.
 
 Zero Trust Azure Landing Zone  
 https://github.com/MFA-meex/azure-zero-trust-landing-zone
 
 A Zero Trust Azure environment: private endpoints, RBAC-only access, Bastion-only compute, Azure Policy enforcement, and customer-managed key encryption.
+
+Detection Engineering  
+https://github.com/MFA-meex/detection-engineering
+
+KQL-based detection rules across Microsoft Sentinel, Defender, and Entra ID. This work focuses on identifying identity-based attacks, cloud attacks, and AI attack techniques mapped to common intrusion patterns.
 
 ---
 
